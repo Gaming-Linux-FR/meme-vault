@@ -15,3 +15,7 @@ Here is archived the jewels (pépites) and dank memes that appears on Gaming Lin
 <p align="center">
   <img width="400" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/helpmekouizine.png" alt="helpmekouizine">
 </p>
+
+<p align="center">
+  <img width="400" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/stable.png" alt="stable">
+</p>
