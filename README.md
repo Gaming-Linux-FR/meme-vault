@@ -9,13 +9,13 @@ Here is archived the jewels (pépites) and dank memes that appears on Gaming Lin
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/distros/arch/malefoy-arch-death-mark.png" alt="malefoy-arch-death-mark">
+  <img width="400" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/distros/arch/malefoy-arch-death-mark.png" alt="malefoy-arch-death-mark">
 </p>
 
 <p align="center">
-  <img width="400" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/helpmekouizine.png" alt="helpmekouizine">
+  <img width="800" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/helpmekouizine.png" alt="helpmekouizine">
 </p>
 
 <p align="center">
-  <img width="400" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/stable.png" alt="stable">
+  <img width="800" src="https://github.com/Gaming-Linux-FR/meme-vault/blob/main/img/meta-server/stable.png" alt="stable">
 </p>
